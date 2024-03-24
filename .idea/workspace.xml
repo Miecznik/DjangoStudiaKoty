@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee3fd78-3a0a-42f2-a81d-e7a63cf43f51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoStudiaKoty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoStudiaKoty/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoStudiaKoty/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoStudiaKoty/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoStudiaKoty/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DjangoStudiaKoty/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ee3fd78-3a0a-42f2-a81d-e7a63cf43f51" name="Changes" comment="Test Commita" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2e9GtgECXC2FbXfK7qL2hkhuCQL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,6 +27,10 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,10 +77,24 @@
       <option name="presentableId" value="Default" />
       <updated>1711309596871</updated>
       <workItem from="1711309633650" duration="236000" />
+      <workItem from="1711309966281" duration="657000" />
     </task>
+    <task id="LOCAL-00001" summary="Test Commita">
+      <option name="closed" value="true" />
+      <created>1711310204149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711310204149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commita" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commita" />
   </component>
 </project>
